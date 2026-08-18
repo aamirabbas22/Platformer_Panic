@@ -1,0 +1,2 @@
+open menu.py to start.
+This is kinda buggy.
